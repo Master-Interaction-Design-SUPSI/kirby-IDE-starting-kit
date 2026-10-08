@@ -1,0 +1,14 @@
+title: Home
+
+options:
+  delete: false
+  url: false
+  changeTitle: false
+  changeTemplate: false
+  duplicate: false
+
+fields:
+  abstract:
+    label: Abstract
+    type: textarea
+    required: true
